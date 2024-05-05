@@ -1,0 +1,2 @@
+This is the vendor management system with performance metrics.It is based on the working of API endpoints.To get the vendor details run the project using python manage.py runserver and copy the url and paste it on visual studio thundercient take a new request paste the url and the path vendor.
+and perform methods get,post,put,delete.similarly the purchase order and the performance using the path purchase_order for getting the details of purchase_order and for the performance,its like on the path of vendor/vendor_id/performance to get the performance of the metrics.
